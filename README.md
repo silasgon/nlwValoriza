@@ -1,3 +1,25 @@
+Projeto desenvolvido no bootcamp da Rocketseat
+Onde foi possivel desenvolver novas habilidades e tecnicas de programação.
+A API foi contruida em NODEJS utilizado varias ferramentas como:
+  -devDependencies:
+    *bcryptjs
+    *cors
+    *jsonwebtoken
+    *ts-node-dev
+    *typescript
+ 
+  -dependencies
+    *bcryptjs
+    *class-transformer
+    *cors
+    *express
+    *express-async-errors
+    *jsonwebtoken
+    *reflect-metadata
+    *sqlite3
+    *typeorm
+    *uuid
+
 ## NLW Valoriza
 
 ##Regras
@@ -19,8 +41,8 @@
 
 - Cadastro de elogios
 
-    [] Não é permitido um usuário cadastrar um elogio para si
+    [x] Não é permitido um usuário cadastrar um elogio para si
 
-    [] Não é permitido cadastrar elogios para usuários inválidos
+    [x] Não é permitido cadastrar elogios para usuários inválidos
 
-    [] O usuário precisa estar autenticado na aplicação
+    [x] O usuário precisa estar autenticado na aplicação
